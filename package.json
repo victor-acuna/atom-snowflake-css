@@ -1,10 +1,9 @@
 {
   "name": "atom-snowflake-css",
   "main": "./lib/atom-snowflake-css",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generates hashes for use with the Snowflake CSS concept",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-snowflake-css:insertHash"
   },
