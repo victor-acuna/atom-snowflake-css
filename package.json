@@ -1,0 +1,19 @@
+{
+  "name": "atom-snowflake-css",
+  "main": "./lib/atom-snowflake-css",
+  "version": "0.0.0",
+  "description": "Generates hashes for use with the Snowflake CSS concept",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-snowflake-css:insertHash"
+  },
+  "repository": "https://github.com/victor-acuna/atom-snowflake-css",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "node-uuid": "1.4.1"
+  }
+}
